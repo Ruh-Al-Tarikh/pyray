@@ -3,6 +3,7 @@
         "ms-python.python",
         "ms-vscode.cmake-tools",
         "vscjava.vscode-java-debug",
-        "golang.go"
+        "golang.go",
+        "fabioz.vscode-pydev-python-debugger"
     ]
 }
