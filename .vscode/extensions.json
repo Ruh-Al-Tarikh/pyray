@@ -1,9 +1,0 @@
-{
-    "recommendations": [
-        "ms-python.python",
-        "ms-vscode.cmake-tools",
-        "vscjava.vscode-java-debug",
-        "golang.go",
-        "fabioz.vscode-pydev-python-debugger"
-    ]
-}
